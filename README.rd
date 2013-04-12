@@ -1,1 +1,1 @@
-WS experimentation of using WSIT 
+experimentation of using WSIT 
